@@ -1,11 +1,11 @@
 iTunes U Course Manager Tools
 =============================
 
-Tools for batch processes in iTunes U
+Tools for automating batch processes in iTunes U Course Manager.
 
-Author: John Dyer [http://j.hn/]
-School: Dallas Theological Seminary [http://www.dts.edu/]
-License (MIT): [http://creativecommons.org/licenses/MIT/]
+* Author: John Dyer [http://j.hn/]
+* School: Dallas Theological Seminary [http://www.dts.edu/]
+* License (MIT): [http://creativecommons.org/licenses/MIT/]
 
 Requirements
 ------------
