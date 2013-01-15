@@ -23,7 +23,7 @@ It's quite time consuming to upload multiple files to iTunes U Course Manager, s
 `python itunesu-batchupload.py -u username@domain.edu -p ******* -c MATH500 -i 'Math500/video'`
 
 * `-u` Your Apple ID
-* `-u` Your Apple ID password
+* `-p` Your Apple ID password
 * `-c` Course short code
 * `-i` Path to files 
 
@@ -35,5 +35,5 @@ Once the files are uploaed, this script attempts to create 'Posts' which list al
 `python itunesu-createposts.py -u username@domain.edu -p ******* -c MATH500`
 
 * `-u` Your Apple ID
-* `-u` Your Apple ID password
+* `-p` Your Apple ID password
 * `-c` Course short code
